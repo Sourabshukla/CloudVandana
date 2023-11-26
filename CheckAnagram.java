@@ -1,6 +1,6 @@
 package CloudVandana;
 
-import java.util.Scanner;
+import java.util.*;
 public class CheckAnagram {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
